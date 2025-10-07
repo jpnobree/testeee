@@ -215,4 +215,4 @@ jobs:
           
           # A branch de hotfix já foi deletada automaticamente pelo merge
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
